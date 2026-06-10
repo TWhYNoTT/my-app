@@ -61,14 +61,12 @@ export default function CV() {
 
       <div id="cv-container" className="font-sans text-black bg-white p-8 max-w-4xl mx-auto text-sm">
         {/* Header with name centered and contact info on sides */}
-        <div className="grid grid-cols-3 ">
+        <div className="relative flex items-start justify-between ">
           <div className="text-left">
             <p>Cairo, Egypt</p>
             <p><a href="https://www.linkedin.com/in/abdelrahman-mostafa-978817273/" target="_blank" className="text-blue-600">LinkedIn</a> • <a href="https://github.com/TWhYNoTT/" target="_blank" className="text-blue-600">GitHub</a></p>
           </div>
-          <div className="text-center">
-            <h1 className="text-2xl font-bold whitespace-nowrap">ABDELRAHMAN MOSTAFA</h1>
-          </div>
+          <h1 className="absolute left-1/2 top-0 -translate-x-1/2 text-2xl font-bold whitespace-nowrap text-center">ABDELRAHMAN MOSTAFA</h1>
           <div className="text-right">
             <p>+20 1128582404</p>
             <p><a href="mailto:abdoabudeif@gmail.com" className="text-blue-600">abdoabudeif@gmail.com</a></p>
