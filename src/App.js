@@ -61,13 +61,13 @@ export default function CV() {
 
       <div id="cv-container" className="font-sans text-black bg-white p-8 max-w-4xl mx-auto text-sm">
         {/* Header with name centered and contact info on sides */}
-        <div className="grid grid-cols-3 mb-2">
+        <div className="grid grid-cols-3 ">
           <div className="text-left">
             <p>Cairo, Egypt</p>
             <p><a href="https://www.linkedin.com/in/abdelrahman-mostafa-978817273/" target="_blank" className="text-blue-600">LinkedIn</a> • <a href="https://github.com/TWhYNoTT/" target="_blank" className="text-blue-600">GitHub</a></p>
           </div>
           <div className="text-center">
-            <h1 className="text-2xl font-bold whitespace-nowrap">ABDELRAHMAN AHMED</h1>
+            <h1 className="text-2xl font-bold whitespace-nowrap">ABDELRAHMAN MOSTAFA</h1>
           </div>
           <div className="text-right">
             <p>+20 1128582404</p>
@@ -75,8 +75,28 @@ export default function CV() {
           </div>
         </div>
 
+        <div className="text-center mt-3">
+          <h2 className="text-lg font-bold">FULL STACK DEVELOPER (.NET | MERN | AWS | AZURE)</h2>
+        </div>
+
+        <div className="border border-gray-300 p-3 mt-3 mb-1 text-sm">
+          <p>
+            Full Stack Developer with 3+ years of experience building scalable web applications,
+            cloud-based solutions, and production systems using ASP.NET Core, C#, React,
+            Node.js, MongoDB, and SQL Server.
+          </p>
+          <p className="mt-2">
+            Experienced with AWS, Azure, Docker, CI/CD pipelines, Cloudflare,
+            API integrations, and AI-powered solutions.
+          </p>
+          <p className="mt-2">
+            Delivered projects for clients across the USA, UAE, Saudi Arabia, and Egypt
+            while working in fully remote teams.
+          </p>
+        </div>
+
         {/* Employment Header */}
-        <div className="border-b border-black py-1 mb-1">
+        <div className="border-b border-black py-1 ">
           <h2 className="text-xl font-bold text-center">EMPLOYMENT</h2>
         </div>
 
@@ -103,7 +123,7 @@ export default function CV() {
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Built backend systems using ASP.NET Core and PHP Laravel Blade.</span>
+              <span>Built backend systems primarily using ASP.NET Core while supporting Laravel-based services where required.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
@@ -133,18 +153,18 @@ export default function CV() {
 
           {/* Full-stack Developer Devura */}
           <div className="grid grid-cols-3 py-1">
-            <div className="font-bold text-left">Full-stack Developer</div>
-            <div className="font-bold text-center whitespace-nowrap">Sep 2024 - Mar 2026 (Part-time from Apr 2025)</div>
+            <div className="font-bold text-left">Full Stack Developer</div>
+            <div className="font-bold text-center whitespace-nowrap">Apr 2024 - Apr 2025</div>
             <div className="font-bold text-right">Devura - UAE</div>
           </div>
           <div className="mb-1">
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Remote position working independently to deliver entire application solutions (Full-time Sep 2024 - Mar 2025, Part-time from Apr 2025).</span>
+              <span>Remote position working independently to deliver complete end-to-end application solutions.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Developed complete backend systems using ASP.NET Core 9.</span>
+              <span>Designed and developed scalable backend systems using ASP.NET Core.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
@@ -199,6 +219,10 @@ export default function CV() {
               <span className="mr-2 text-xl">•</span>
               <span><strong>Benaa Almostaqbal Property (UAE)</strong> - Developed property management backend using PHP Laravel.</span>
             </div>
+            <div className="flex items-start p-2">
+              <span className="mr-2 text-xl"> </span>
+              <span> </span>
+            </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span><strong>ADSSF (UAE)</strong> - Freelance project developing landing page and registration page for Abu Dhabi Statistics Stakeholders Forum.</span>
@@ -218,7 +242,7 @@ export default function CV() {
           <div className="mb-1">
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Worked on various projects using technologies such as nodeJS, python, C#, .NET, reactJS, angularJS, AI models, OpenAI, and many others.</span>
+              <span>Delivered web development, cloud, automation, and AI integration projects for international clients using ASP.NET Core, ReactJS, Node.js, TypeScript, AWS, Azure, OpenAI APIs, and modern DevOps practices.</span>
             </div>
             <div className="flex items-start">
               <span>Profile: <a href="https://www.upwork.com/freelancers/~01448c570fc7f814d5" target="_blank" className="text-blue-600">https://www.upwork.com/freelancers/~01448c570fc7f814d5</a></span>
@@ -227,7 +251,7 @@ export default function CV() {
         </div>
 
         {/* Education Header */}
-        <div className="border-b border-black py-1 mb-1 mt-32">
+        <div className="border-b border-black py-1 ">
           <h2 className="text-xl font-bold text-center">EDUCATION</h2>
         </div>
 
@@ -235,11 +259,11 @@ export default function CV() {
         <div>
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Diploma</div>
-            <div className="font-bold text-center">Jun 2024 – Oct 2024</div>
-            <div className="font-bold text-right">Information Technology Institute (ITI)</div>
+            <div className="font-bold text-center">Jun 2023 – Oct 2023</div>
+            <div className="font-bold text-right " style={{ whiteSpace: 'nowrap' }}>Information Technology Institute (ITI)</div>
           </div>
 
-          <div className="mb-1">
+          <div className="">
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span>Full-Stack Development</span>
@@ -269,14 +293,11 @@ export default function CV() {
               <span>Grade: Very Good</span>
             </div>
           </div>
-          <div className="grid grid-cols-2 py-1"></div>
-          <div className="grid grid-cols-2 py-1"></div>
-          <div className="grid grid-cols-2 py-1"></div>
-          <div className="grid grid-cols-2 py-1"></div>
+
         </div>
 
         {/* Awards & Additional Experience Header */}
-        <div className="border-b border-black py-1 mb-1 mt-4">
+        <div className="border-b border-black py-1 mb-1">
           <h2 className="text-xl font-bold text-center">AWARDS & ADDITIONAL EXPERIENCE</h2>
         </div>
 
@@ -288,11 +309,11 @@ export default function CV() {
         </div>
 
         {/* Certifications Header */}
-        <div className="border-b border-black py-1 mb-1 mt-4">
+        <div className="border-b border-black py-1 mb-1">
           <h2 className="text-xl font-bold text-center">CERTIFICATIONS</h2>
         </div>
 
-        <div className="mb-1">
+        <div className="">
           <div className="flex items-start justify-between">
             <div className="flex">
               <span className="mr-2 text-xl">•</span>
@@ -331,14 +352,14 @@ export default function CV() {
         </div>
 
         {/* Languages and Technologies Header */}
-        <div className="border-b border-black py-1 mb-1 mt-4">
+        <div className="border-b border-black mb-1 ">
           <h2 className="text-xl font-bold text-center">LANGUAGES AND TECHNOLOGIES</h2>
         </div>
 
         <div className="grid grid-cols-4 mb-1">
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>NodeJS</span>
+            <span>ASP.NET Core</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -346,27 +367,15 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>C++</span>
+            <span>ReactJS</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>ASP.NET Core</span>
+            <span>NodeJS</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>Entity Framework</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>PHP</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Laravel</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Python</span>
+            <span>TypeScript</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -378,12 +387,59 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>MySQL</span>
+            <span>AWS</span>
           </div>
-
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>ReactJS</span>
+            <span>Azure</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Docker</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>CI/CD Pipelines</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Azure DevOps</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>REST APIs</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Microservices</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Cloudflare</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Git</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Linux</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Telnyx</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>JavaScript</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>HTML5</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>CSS3</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -403,10 +459,6 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>TypeScript</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
             <span>GraphQL</span>
           </div>
           <div className="flex items-start">
@@ -423,15 +475,27 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>JavaScript</span>
+            <span>PHP</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>HTML5</span>
+            <span>Laravel</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>CSS3</span>
+            <span>Python</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>MySQL</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Entity Framework</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>C++</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -447,38 +511,7 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>Azure DevOps</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
             <span>Agile Methodology</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>CI/CD Pipelines</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Git</span>
-          </div>
-
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Azure</span>
-          </div>
-
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>AWS</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Docker</span>
-          </div>
-
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Microservices</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
