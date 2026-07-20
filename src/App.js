@@ -74,14 +74,14 @@ export default function CV() {
         </div>
 
         <div className="text-center mt-3">
-          <h2 className="text-lg font-bold">FULL STACK DEVELOPER (.NET | MERN | AWS | AZURE)</h2>
+          <h2 className="text-lg font-bold">SENIOR FULL STACK DEVELOPER (Laravel & MERN)</h2>
         </div>
 
         <div className="border border-gray-300 p-3 mt-3 mb-1 text-sm">
           <p>
-            Full Stack Developer with 3+ years of experience building scalable web applications,
-            cloud-based solutions, and production systems using ASP.NET Core, C#, React,
-            Node.js, MongoDB, and SQL Server.
+            Senior Full Stack Developer with 5+ years of experience building scalable web applications,
+            cloud-based solutions, and production systems using PHP, Laravel, Node.js, Express, MongoDB,
+            React, and SQL databases.
           </p>
           <p className="mt-2">
             Experienced with AWS, Azure, Docker, CI/CD pipelines, Cloudflare,
@@ -102,7 +102,7 @@ export default function CV() {
         <div>
           {/* Full Stack Developer Whipp Digital */}
           <div className="grid grid-cols-3 py-1">
-            <div className="font-bold text-left">Full Stack Developer</div>
+            <div className="font-bold text-left">Senior Full Stack Developer</div>
             <div className="font-bold text-center">Apr 2025 - Present</div>
             <div className="font-bold text-right">Whipp Digital - United States</div>
           </div>
@@ -121,7 +121,7 @@ export default function CV() {
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Built backend systems primarily using ASP.NET Core while supporting Laravel-based services where required.</span>
+              <span>Built backend systems primarily using PHP Laravel and Node.js (Express/MongoDB) while supporting other stack services where required.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
@@ -151,7 +151,7 @@ export default function CV() {
 
           {/* Full-stack Developer Devura */}
           <div className="grid grid-cols-3 py-1">
-            <div className="font-bold text-left">Full Stack Developer</div>
+            <div className="font-bold text-left">Senior Full Stack Developer</div>
             <div className="font-bold text-center whitespace-nowrap">Apr 2024 - Apr 2025</div>
             <div className="font-bold text-right">Devura - UAE</div>
           </div>
@@ -162,7 +162,7 @@ export default function CV() {
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Designed and developed scalable backend systems using ASP.NET Core.</span>
+              <span>Designed and developed scalable backend systems using PHP Laravel and Node.js (Express).</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
@@ -188,7 +188,7 @@ export default function CV() {
             <div className="font-bold text-center">Jan 2023 - Oct 2024</div>
             <div className="font-bold text-right">Multiple Freelance Clients</div>
           </div>
-          <div className="mb-1">
+          <div className="">
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span><strong>Alaaddin E-commerce (Yemen)</strong> - Developed responsive e-commerce frontend using HTML, CSS, and JavaScript.</span>
@@ -213,34 +213,33 @@ export default function CV() {
               <span className="mr-2 text-xl">•</span>
               <span><strong>AWS-Welding Inspector Certification (Egypt)</strong> - Created responsive certification platform using HTML and CSS.</span>
             </div>
-            <div className="flex items-start">
-              <span className="mr-2 text-xl">•</span>
-              <span><strong>Benaa Almostaqbal Property (UAE)</strong> - Developed property management backend using PHP Laravel.</span>
-            </div>
-            <div className="flex items-start p-2">
-              <span className="mr-2 text-xl"> </span>
-              <span> </span>
-            </div>
-            <div className="flex items-start">
-              <span className="mr-2 text-xl">•</span>
-              <span><strong>ADSSF (UAE)</strong> - Freelance project developing landing page and registration page for Abu Dhabi Statistics Stakeholders Forum.</span>
-            </div>
-            <div className="flex items-start">
-              <span className="mr-2 text-xl">•</span>
-              <span><strong>ialbatin MOMRA Gov (Saudi Arabia)</strong> - Implemented integration between frontend and backend using MVC .NET Core.</span>
+            <div className="pt-2">
+              <div className="flex items-start">
+                <span className="mr-2 text-xl">•</span>
+                <span><strong>Benaa Almostaqbal Property (UAE)</strong> - Developed property management backend using PHP Laravel.</span>
+              </div>
+
+              <div className="flex items-start">
+                <span className="mr-2 text-xl">•</span>
+                <span><strong>ADSSF (UAE)</strong> - Freelance project developing landing page and registration page for Abu Dhabi Statistics Stakeholders Forum.</span>
+              </div>
+              <div className="flex items-start">
+                <span className="mr-2 text-xl">•</span>
+                <span><strong>ialbatin MOMRA Gov (Saudi Arabia)</strong> - Implemented integration between frontend and backend using MVC .NET Core.</span>
+              </div>
             </div>
           </div>
 
           {/* Full Stack Developer Upwork */}
           <div className="grid grid-cols-3 py-1">
-            <div className="font-bold text-left">Full Stack Developer</div>
+            <div className="font-bold text-left">Senior Full Stack Developer</div>
             <div className="font-bold text-center">Oct 2022 – Present</div>
             <div className="font-bold text-right">Upwork - Freelance</div>
           </div>
           <div className="mb-1">
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Delivered web development, cloud, automation, and AI integration projects for international clients using ASP.NET Core, ReactJS, Node.js, TypeScript, AWS, Azure, OpenAI APIs, and modern DevOps practices.</span>
+              <span>Delivered web development, cloud, automation, and AI integration projects for international clients using PHP Laravel, Node.js, Express, MongoDB, ReactJS, TypeScript, AWS, Azure, OpenAI APIs, and modern DevOps practices.</span>
             </div>
             <div className="flex items-start">
               <span>Profile: <a href="https://www.upwork.com/freelancers/~01448c570fc7f814d5" target="_blank" className="text-blue-600">https://www.upwork.com/freelancers/~01448c570fc7f814d5</a></span>
@@ -268,11 +267,11 @@ export default function CV() {
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Developed full-stack applications using .NET Core and modern web technologies</span>
+              <span>Developed full-stack applications using PHP Laravel, Node.js, Express, React, and modern web technologies</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Implemented complex database designs using Entity Framework Core</span>
+              <span>Implemented complex database designs using MongoDB, MySQL, and PostgreSQL</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
@@ -357,6 +356,50 @@ export default function CV() {
         <div className="grid grid-cols-4 mb-1">
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
+            <span>PHP</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Laravel</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>NodeJS</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>ExpressJS</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>MongoDB</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>ReactJS</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>TypeScript</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>JavaScript</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>HTML5</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>CSS3</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>TailwindCSS</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
             <span>ASP.NET Core</span>
           </div>
           <div className="flex items-start">
@@ -365,23 +408,19 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>ReactJS</span>
+            <span>React Native</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>NodeJS</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>TypeScript</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>MongoDB</span>
+            <span>Expo</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
             <span>MSSQL</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>MySQL</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -429,26 +468,6 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>JavaScript</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>HTML5</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>CSS3</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>React Native</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Expo</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
             <span>AngularJS</span>
           </div>
           <div className="flex items-start">
@@ -469,23 +488,7 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>TailwindCSS</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>PHP</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Laravel</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
             <span>Python</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>MySQL</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
