@@ -104,16 +104,16 @@ export default function CV() {
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Full Stack Developer</div>
             <div className="font-bold text-center">Apr 2024 - Present</div>
-            <div className="font-bold text-right">Whipp Digital - United States</div>
+            <div className="font-bold text-right whitespace-nowrap">Whipp Digital - US (Remote)</div>
           </div>
           <div className="mb-1">
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Leading development of an auction platform integrating multiple data sources from platform users and external auction platforms like Copart.</span>
+              <span>Engineered an auction platform integrating multiple data sources from platform users and external auction platforms like Copart.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Built scalable backend systems and RESTful APIs primarily using Node.js and Express.</span>
+              <span>Built scalable, event-driven backend systems and RESTful APIs primarily using Node.js and Express.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
@@ -122,11 +122,15 @@ export default function CV() {
 
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Architected and built real-time synchronization service using Node.js to automatically sync auction data from multiple external platforms with our platform.</span>
+              <span>Architected and built real-time synchronization service using Node.js and message queues to automatically sync auction data from multiple external platforms with our platform.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span>Developed image organization and processing service with automated upload to R2 storage.</span>
+            </div>
+            <div className="flex items-start">
+              <span className="mr-2 text-xl">•</span>
+              <span>Implemented performance optimizations across the platform to ensure efficient data processing.</span>
             </div>
 
             <div className="flex items-start">
@@ -155,7 +159,7 @@ export default function CV() {
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Full Stack Developer</div>
             <div className="font-bold text-center whitespace-nowrap">Apr 2022 - Apr 2024</div>
-            <div className="font-bold text-right">Devura - UAE</div>
+            <div className="font-bold text-right">Devura - UAE (Remote)</div>
           </div>
           <div className="mb-1">
             <div className="flex items-start">
@@ -188,7 +192,7 @@ export default function CV() {
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Developer</div>
             <div className="font-bold text-center">Jan 2021 - Apr 2022</div>
-            <div className="font-bold text-right">Multiple Freelance Clients - Remote</div>
+            <div className="font-bold text-right">Multiple Freelance Clients (Remote)</div>
           </div>
           <div className="mb-1">
             <div className="flex items-start">
@@ -215,18 +219,20 @@ export default function CV() {
               <span className="mr-2 text-xl">•</span>
               <span><strong>AWS-Welding Inspector Certification (Egypt)</strong> - Created responsive certification platform using HTML and CSS.</span>
             </div>
+
+            <div className="flex items-start p-2">
+              <span className="mr-2 text-xl"> </span>
+              <span> </span>
+            </div>
+            <div className="flex items-start p-2">
+              <span className="mr-2 text-xl"> </span>
+              <span> </span>
+            </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span><strong>Benaa Almostaqbal Property (UAE)</strong> - Developed property management backend using PHP Laravel.</span>
             </div>
-            <div className="flex items-start p-2">
-              <span className="mr-2 text-xl"> </span>
-              <span> </span>
-            </div>
-            <div className="flex items-start p-2">
-              <span className="mr-2 text-xl"> </span>
-              <span> </span>
-            </div>
+
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span><strong>ADSSF (UAE)</strong> - Freelance project developing landing page and registration page for Abu Dhabi Statistics Stakeholders Forum.</span>
@@ -371,11 +377,7 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>ASP.NET Core</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>C#</span>
+            <span>Express</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -391,11 +393,19 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
+            <span>MySQL</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
             <span>AWS</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
             <span>Azure</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Cloudflare</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -407,7 +417,15 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
+            <span>Git</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
             <span>Azure DevOps</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Agile Methodology</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -419,20 +437,27 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>Cloudflare</span>
+            <span>Design patterns</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>Git</span>
+            <span>Message Queues</span>
           </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Event-Driven Architecture</span>
+          </div>
+          <div className="flex items-start">
+            <span className="mr-2 text-xl">•</span>
+            <span>Performance Optimization</span>
+          </div>
+
+
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
             <span>Linux</span>
           </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Telnyx</span>
-          </div>
+
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
             <span>JavaScript</span>
@@ -445,25 +470,11 @@ export default function CV() {
             <span className="mr-2 text-xl">•</span>
             <span>CSS3</span>
           </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>React Native</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Expo</span>
-          </div>
+
+
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
             <span>Redux</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>GraphQL</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Socket.io</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
@@ -475,40 +486,14 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>MySQL</span>
+            <span>Socket.io</span>
           </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Entity Framework</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>C++</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>SASS</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>LESS</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>MVC Architecture</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Agile Methodology</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Windows Services</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Windows Forms</span>
-          </div>
+
+
+
+
+
+
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
             <span>Payment Gateways</span>
@@ -519,12 +504,13 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>OpenAI/AI Models</span>
+            <span>Telnyx</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>Design patterns</span>
+            <span>OpenAI/AI Models</span>
           </div>
+
         </div>
       </div>
     </div >
