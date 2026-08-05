@@ -79,7 +79,7 @@ export default function CV() {
 
         <div className="border border-gray-300 p-3 mt-3 mb-1 text-sm">
           <p>
-            Full Stack Developer with 4+ years of experience building scalable web applications,
+            Full Stack Developer with 5+ years of experience building scalable web applications,
             cloud-based solutions, and production systems using React, Node.js, TypeScript,
             MongoDB, and SQL Server.
           </p>
@@ -103,7 +103,7 @@ export default function CV() {
           {/* Full Stack Developer Whipp Digital */}
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Full Stack Developer</div>
-            <div className="font-bold text-center">Apr 2025 - Present</div>
+            <div className="font-bold text-center">Apr 2024 - Present</div>
             <div className="font-bold text-right">Whipp Digital - United States</div>
           </div>
           <div className="mb-1">
@@ -113,20 +113,22 @@ export default function CV() {
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span>Architected and built real-time synchronization service using Node.js to automatically sync auction data from multiple external platforms with our platform.</span>
-            </div>
-            <div className="flex items-start">
-              <span className="mr-2 text-xl">•</span>
-              <span>Developed image organization and processing service with automated upload to R2 storage.</span>
-            </div>
-            <div className="flex items-start">
-              <span className="mr-2 text-xl">•</span>
               <span>Built scalable backend systems and RESTful APIs primarily using Node.js and Express.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span>Created dynamic, responsive frontend interfaces with ReactJS.</span>
             </div>
+
+            <div className="flex items-start">
+              <span className="mr-2 text-xl">•</span>
+              <span>Architected and built real-time synchronization service using Node.js to automatically sync auction data from multiple external platforms with our platform.</span>
+            </div>
+            <div className="flex items-start">
+              <span className="mr-2 text-xl">•</span>
+              <span>Developed image organization and processing service with automated upload to R2 storage.</span>
+            </div>
+
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span>Managed end-to-end DevOps operations, including server provisioning, machine management, Docker containerization, and CI/CD deployment pipelines.</span>
@@ -152,7 +154,7 @@ export default function CV() {
           {/* Full-stack Developer Devura */}
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Full Stack Developer</div>
-            <div className="font-bold text-center whitespace-nowrap">Apr 2024 - Apr 2025</div>
+            <div className="font-bold text-center whitespace-nowrap">Apr 2022 - Apr 2024</div>
             <div className="font-bold text-right">Devura - UAE</div>
           </div>
           <div className="mb-1">
@@ -185,8 +187,8 @@ export default function CV() {
           {/* Freelance Developer - Consolidated section */}
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Developer</div>
-            <div className="font-bold text-center">Jan 2023 - Oct 2024</div>
-            <div className="font-bold text-right">Multiple Freelance Clients</div>
+            <div className="font-bold text-center">Jan 2021 - Apr 2022</div>
+            <div className="font-bold text-right">Multiple Freelance Clients - Remote</div>
           </div>
           <div className="mb-1">
             <div className="flex items-start">
@@ -195,19 +197,19 @@ export default function CV() {
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span><strong>Royal-Track Shipping (Saudi Arabia - Remote)</strong> - Developed shipping management interface using ReactJS.</span>
+              <span><strong>Royal-Track Shipping (Saudi Arabia)</strong> - Developed shipping management interface using ReactJS.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span><strong>Joele Special Medical Co (Saudi Arabia - Remote)</strong> - Created Node.js service for real-time synchronization between local SQL Server database and remote MySQL database. Implemented React application for database management.</span>
+              <span><strong>Joele Special Medical Co (Saudi Arabia)</strong> - Created Node.js service for real-time synchronization between local SQL Server database and remote MySQL database. Implemented React application for database management.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span><strong>Lapis Jewelry (Saudi Arabia - Remote)</strong> - Full-time 3-month project developing invoicing system using ReactJS and Node.js. Implemented WhatsApp integration system using Twilio API for customer communications.</span>
+              <span><strong>Lapis Jewelry (Saudi Arabia)</strong> - Full-time 3-month project developing invoicing system using ReactJS and Node.js. Implemented WhatsApp integration system using Twilio API for customer communications.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span><strong>Buraydah Hospitals (Saudi Arabia - Remote)</strong> - Developed healthcare management interface using ReactJS.</span>
+              <span><strong>Buraydah Hospitals (Saudi Arabia)</strong> - Developed healthcare management interface using ReactJS.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
@@ -221,20 +223,24 @@ export default function CV() {
               <span className="mr-2 text-xl"> </span>
               <span> </span>
             </div>
+            <div className="flex items-start p-2">
+              <span className="mr-2 text-xl"> </span>
+              <span> </span>
+            </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
               <span><strong>ADSSF (UAE)</strong> - Freelance project developing landing page and registration page for Abu Dhabi Statistics Stakeholders Forum.</span>
             </div>
             <div className="flex items-start">
               <span className="mr-2 text-xl">•</span>
-              <span><strong>ialbatin MOMRA Gov (Saudi Arabia - Remote)</strong> - Implemented integration between React frontend and Node.js backend.</span>
+              <span><strong>ialbatin MOMRA Gov (Saudi Arabia)</strong> - Implemented integration between React frontend and Node.js backend.</span>
             </div>
           </div>
 
           {/* Full Stack Developer Upwork */}
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Full Stack Developer</div>
-            <div className="font-bold text-center">Oct 2022 – Present</div>
+            <div className="font-bold text-center">Oct 2020 – Present</div>
             <div className="font-bold text-right">Upwork - Freelance</div>
           </div>
           <div className="mb-1">
@@ -257,7 +263,7 @@ export default function CV() {
         <div>
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Diploma</div>
-            <div className="font-bold text-center">Jun 2023 – Oct 2023</div>
+            <div className="font-bold text-center">Jun 2020 – Oct 2020</div>
             <div className="font-bold text-right " style={{ whiteSpace: 'nowrap' }}>Information Technology Institute (ITI)</div>
           </div>
 
@@ -282,7 +288,7 @@ export default function CV() {
 
           <div className="grid grid-cols-3 py-1">
             <div className="font-bold text-left">Bachelor of Computer Science</div>
-            <div className="font-bold text-center">Sep 2019 – Jun 2023</div>
+            <div className="font-bold text-center">Sep 2016 – Jun 2020</div>
             <div className="font-bold text-right">Asyut University</div>
           </div>
           <div className="mb-1">
@@ -302,7 +308,7 @@ export default function CV() {
         <div className="mb-1">
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>Instructor in DEPI (OCT 2024 – JAN 2025) — Teaching IT Courses on HTML, CSS, JS, NodeJS, ReactJS, NOSQL and others.</span>
+            <span>Instructor in DEPI (OCT 2020 – JAN 2021) — Teaching IT Courses on HTML, CSS, JS, NodeJS, ReactJS, NOSQL and others.</span>
           </div>
         </div>
 
@@ -315,37 +321,37 @@ export default function CV() {
           <div className="flex items-start justify-between">
             <div className="flex">
               <span className="mr-2 text-xl">•</span>
-              <span>Building Web Applications using PHP & MYSQL</span>
+              <span>Building Web Applications using MERN</span>
             </div>
-            <div className="font-bold">May 2023</div>
+            <div className="font-bold">May 2021</div>
           </div>
           <div className="flex items-start justify-between">
             <div className="flex">
               <span className="mr-2 text-xl">•</span>
               <span>Clean Code Certificate</span>
             </div>
-            <div className="font-bold">JAN 2023</div>
+            <div className="font-bold">JAN 2021</div>
           </div>
           <div className="flex items-start justify-between">
             <div className="flex">
               <span className="mr-2 text-xl">•</span>
               <span>ReactJS Certificate</span>
             </div>
-            <div className="font-bold">DEC 2022</div>
+            <div className="font-bold">DEC 2020</div>
           </div>
           <div className="flex items-start justify-between">
             <div className="flex">
               <span className="mr-2 text-xl">•</span>
               <span>The Complete Node.js Course (RESTful Web Services with Node.js, Express, and MongoDB)</span>
             </div>
-            <div className="font-bold">Nov 2022</div>
+            <div className="font-bold">Nov 2020</div>
           </div>
           <div className="flex items-start justify-between">
             <div className="flex">
               <span className="mr-2 text-xl">•</span>
               <span>Database Fundamentals</span>
             </div>
-            <div className="font-bold">Aug 2022</div>
+            <div className="font-bold">Aug 2020</div>
           </div>
         </div>
 
@@ -449,10 +455,6 @@ export default function CV() {
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
-            <span>AngularJS</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
             <span>Redux</span>
           </div>
           <div className="flex items-start">
@@ -470,18 +472,6 @@ export default function CV() {
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
             <span>TailwindCSS</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>PHP</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Laravel</span>
-          </div>
-          <div className="flex items-start">
-            <span className="mr-2 text-xl">•</span>
-            <span>Python</span>
           </div>
           <div className="flex items-start">
             <span className="mr-2 text-xl">•</span>
